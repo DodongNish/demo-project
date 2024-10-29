@@ -1,3 +1,5 @@
 <template>
-  <Codemirror />
+  <div class="flex justify-center">
+    <Codemirror />
+  </div>
 </template>
